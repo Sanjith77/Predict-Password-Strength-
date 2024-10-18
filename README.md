@@ -1,7 +1,7 @@
 # Predict-Password-Strength-
 
 # Overview 
-The task of predicting password strength involves building a model that can classify passwords based on their strength—typically as weak, medium, or strong. The strength of a password is determined by various factors, including its length, character variety (e.g., the inclusion of uppercase letters, lowercase letters, numbers, and special characters), and patterns that may or may not make it vulnerable to attacks.
+This Predict-Password-Strength-using Natural language project of predicting password strength involves building a model that can classify passwords based on their strength—typically as weak, medium, or strong. The strength of a password is determined by various factors, including its length, character variety (e.g., the inclusion of uppercase letters, lowercase letters, numbers, and special characters), and patterns that may or may not make it vulnerable to attacks.
 
 
 # Here's a general description of it:
